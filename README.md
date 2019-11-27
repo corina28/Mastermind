@@ -132,6 +132,7 @@ namespace Mastermind
 
         }
     }
+    
     class Program
     {
         static void Main()
